@@ -1,1 +1,1 @@
-This repository is a sandbox repository.
+This repository is a sandbox repository to be used for tests.
